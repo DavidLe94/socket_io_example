@@ -1,0 +1,11 @@
+{
+  "name": "SERVER",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "express": "*",
+    "mongodb": "^2.2.33",
+    "socket.io": "*",
+    "socketio-file-upload": "^0.4.4"
+  }
+}
